@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Ulucan</h1>
-<h3 align="center">a QA Automation Test Engineer from the USA</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omer-ulucan&label=Profile%20views&color=0e75b6&style=flat" alt="omer-ulucan" /> </p>
