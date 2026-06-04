@@ -25,6 +25,8 @@ CS student at UT Dallas by day, ML engineer by night. I build things that learn,
 
 **[video2vec](https://github.com/omer-ulucan/video2vec)** — Pure C++ semantic video-to-LLM pipeline. Full ASR + OCR + CLIP embeddings with millisecond-precision sync, zero summarization. 85 tests, zero critical issues. FFmpeg · whisper.cpp · ONNX · Tesseract · FAISS
 
+**[Lone Star Deal Closer](https://www.txdealcloser.com/)** — AI-powered commercial real estate deal analysis for Texas brokers. Instant pursue/reject verdicts with cited evidence. Next.js · Supabase · Gemini · Stripe
+
 **[TrashMap ATX](https://www.trashmapatx.com/)** — 97% accuracy waste classification and mapping for Austin. Won Riverhack 2025. PyTorch · FastAPI · React
 
 ---
@@ -42,12 +44,4 @@ CS student at UT Dallas by day, ML engineer by night. I build things that learn,
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### Stats
-
-![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omer-ulucan&show_icons=true&theme=gruvbox&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=omer-ulucan&theme=gruvbox&hide_border=true)
 
