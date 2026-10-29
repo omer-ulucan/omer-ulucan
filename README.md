@@ -108,12 +108,3 @@ class Omer:
 </div>
 
 <br/>
-
-## `> stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omer-ulucan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00E5FF&icon_color=00E5FF" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ulucan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00E5FF" alt="languages" />
-
-</div>
